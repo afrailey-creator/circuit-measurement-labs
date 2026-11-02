@@ -1,0 +1,8 @@
+item,detector,DMM_reading,bridge_result,unit
+Ra,ammeter,8.335,8.3411,kohm
+Ra,voltmeter,8.335,8.3355,kohm
+Rb,ammeter,11.89,11.9267,kohm
+Rb,voltmeter,11.89,11.9267,kohm
+DMM ammeter internal resistance,bridge,1.2,1.1969,ohm
+photoresistor (light),bridge,1.863,1.8999,kohm
+photoresistor (dark),bridge,2567,2566.99,kohm
